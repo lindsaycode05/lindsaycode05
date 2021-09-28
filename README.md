@@ -1,11 +1,10 @@
 ![Dragosh Gheceanu (2)](https://user-images.githubusercontent.com/88434441/135141263-9902b0be-9ced-417c-ae26-c7aaad9907c2.png)
 
-- ⭐ I’m currently working on mastering my skills in JavaScript
-- ✨ I’m currently learning JavaScript DOM Manipulation
-- 💛 I’m looking to collaborate on open source projects
-- 📜 Ask me about tech, startups, design
-- 🪐 How to reach me: [Twitter](https://twitter.com/dragoshcode) | [LinkedIn](https://www.linkedin.com/in/dragoshcode/)
-- ☕ Fun fact: staying at home in the working time & staying at home in the spare time
+#### - ⭐  I’m currently working on mastering my skills in JavaScript
+#### - ✨ I’m currently learning JavaScript DOM Manipulation
+#### - 💛 I’m looking to collaborate on open source projects
+#### - 📜 Ask me about tech, startups and freelancing
+#### - 🪐 How to reach me: [Twitter](https://twitter.com/dragoshcode) | [LinkedIn](https://www.linkedin.com/in/dragoshcode/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoshcode&show_icons=true&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9)
 

@@ -1,6 +1,6 @@
 ![Dragosh Gheceanu (2)](https://user-images.githubusercontent.com/88434441/135141263-9902b0be-9ced-417c-ae26-c7aaad9907c2.png)
 
-<div style="text-align:center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoshcode&show_icons=true&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9) </div>
+<center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoshcode&show_icons=true&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9) </center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoshcode&layout=compact&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9)](https://github.com/anuraghazra/github-readme-stats)
 

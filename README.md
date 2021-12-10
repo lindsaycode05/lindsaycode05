@@ -1,8 +1,8 @@
 ![Dragosh Gheceanu (2)](https://user-images.githubusercontent.com/88434441/135141263-9902b0be-9ced-417c-ae26-c7aaad9907c2.png)
 
-<img style="text-align: center;"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoshcode&show_icons=true&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9)> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragoshcode&show_icons=true&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9)
 
-<img style="text-align: center"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoshcode&layout=compact&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9)](https://github.com/anuraghazra/github-readme-stats)>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragoshcode&layout=compact&theme=highcontrast&bg_color=b89468&title_color=FDDA0D&text_color=E9DCC9)](https://github.com/anuraghazra/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

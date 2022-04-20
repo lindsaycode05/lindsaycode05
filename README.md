@@ -1,4 +1,4 @@
-![Dragosh Gheceanu](https://user-images.githubusercontent.com/88434441/152643906-37ea17bc-3bce-496f-84bc-a83ce8e005ee.png)
+![Dragosh Gheceanu](https://user-images.githubusercontent.com/88434441/164293852-8408adde-32af-4dab-be7c-9532a38554ab.png)
 
 
 <p align="center">

@@ -20,8 +20,8 @@
 
 
 <br>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dragoshcode&theme=swift"><img src="https://github-readme-stats.vercel.app/api?username=dragoshcode&theme=swift"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsaycode05&theme=swift"><img src="https://github-readme-stats.vercel.app/api?username=lindsaycode05&theme=swift"/></div>
 <div align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragoshcode&theme=swift&&layout=compact"
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindsaycode05&theme=swift&&layout=compact"
 </div>
 

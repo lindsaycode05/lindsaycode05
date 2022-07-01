@@ -1,17 +1,17 @@
-![Dragosh Gheceanu](https://user-images.githubusercontent.com/88434441/164293852-8408adde-32af-4dab-be7c-9532a38554ab.png)
+![Lindsay Glenn](https://user-images.githubusercontent.com/88434441/176928149-8deb1e4d-349a-490a-8403-c15255e1c3ec.png)
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dragoshcode/">
-    <img src="https://img.shields.io/badge/dragosh_gheceanu-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  <a href="https://www.linkedin.com/in/lindsaycode/">
+    <img src="https://img.shields.io/badge/lindsay_glenn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
-<a href="https://twitter.com/dragoshcode">
-    <img src="https://img.shields.io/badge/-@dragoshcode-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+<a href="https://twitter.com/lindsaycode05">
+    <img src="https://img.shields.io/badge/-@lindsaycode05-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
  </a>
 
 <h3 align="center">Hello mate,</h3>
 
-<h4 align="center">I'm Dragosh, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web applications, that makes an impact for the lives of those around me. I like to explore new trends and learn new technologies</h4>
+<h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web applications, that makes an impact for the lives of those around me. I like to explore new trends and learn new technologies</h4>
 <br>
 
 <h3 align="center">Tech stack:</h3>

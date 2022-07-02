@@ -1,4 +1,4 @@
-![Lindsay Glenn](https://user-images.githubusercontent.com/88434441/176928149-8deb1e4d-349a-490a-8403-c15255e1c3ec.png)
+![Lindsay Glenn](https://user-images.githubusercontent.com/88434441/177005470-2a092b2f-17aa-408e-bfc4-0c785274d155.png)
 
 
 <p align="center">

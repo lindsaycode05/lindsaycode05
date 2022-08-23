@@ -8,7 +8,7 @@
 
 <h3 align="center">Hello mate,</h3>
 
-<h4 align="center">I'm Lindsay, a software engineer from Scotland who is passionate about solving problems, building user-friendly & easy-to-use web applications, that makes an impact for the lives of those around me. I like to explore new trends and learn new technologies</h4>
+<h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web applications, that makes an impact for the lives of those around me. I like to explore new trends and learn new technologies</h4>
 <br>
 
 <h3 align="center">Tech stack:</h3>

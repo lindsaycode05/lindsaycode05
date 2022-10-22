@@ -7,7 +7,7 @@
 
 <h3 align="center">Hello mate,</h3>
 
-<h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web applications. I like to explore new trends and learn new technologies</h4>
+<h4 align="center">I'm Lindsay, a software engineer from Scotland who is passionate about solving problems, building user-friendly & easy-to-use web applications. I’m a self-taught software engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side of things as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
 <br>
 
 <h3 align="center">Tech stack:</h3>

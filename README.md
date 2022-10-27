@@ -1,4 +1,4 @@
-![Lindsay Glenn](https://user-images.githubusercontent.com/88434441/197272006-4d556675-7c49-4b01-a1be-5e4a0117cf65.png)
+![Lindsay Glenn](https://user-images.githubusercontent.com/88434441/198407933-96976571-35e7-4b62-833f-47cc22312ef9.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lindsaycode/">

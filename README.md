@@ -1,17 +1,54 @@
 ![Lindsay Glenn](https://github.com/lindsaycode05/lindsaycode05/assets/88434441/a704cdfb-1057-4b85-8446-6af4f2343c11)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lindsaycode/">
-    <img src="https://img.shields.io/badge/lindsay_glenn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
- </a>
 
-<h3 align="center">Hello mate,</h3>
+<h3 align="center">🧍‍♂️ About me</h3>
 
-<h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web applications. I’m a self-taught software engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side of things as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
+<h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web apps.
+<br/>
+I’m a self-taught engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
 <br>
 
-<h3 align="center">Tech stack:</h3>
-<p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/88434441/173157912-009ec213-688b-49a5-a3d3-89d8d68fb466.png" alt="react" width="44" height="40"/> </a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/186242922-e5102c01-5ea1-45c3-a33c-2f4e521bf870.png" alt="nextjs" width="45" height="43"/></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> </br> <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/186241589-c5e0d054-5ab3-43e1-8257-da8d9b6beef4.png" alt="graphql" width="44" height="44"/></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/173157764-0553ac8d-7504-4940-942b-f96ce9f68eb5.png" alt="nodejs" width="40" height="43"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/187318500-261af76e-75b5-4746-815c-ef4c401ff684.png" alt="express" width="45" height="43"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/173158078-ba1dc61c-1ac8-40d2-ba32-49e4e5892e0a.png" alt="python" width="40" height="45"/></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/173887342-a537b9ca-6ea6-4238-88dc-3c9ee9886b85.png" alt="postgresql" width="56" height="52"/></a><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/186244308-7854bcc4-7657-4228-a76e-f95d58925168.png" alt="mongodb" width="56" height="52"/></a><br/><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/88434441/173158376-281ecfd6-c19a-43fd-898c-8415d0946feb.png" alt="aws" width="63" height="42"/></a><a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://github.com/lindsaycode05/lindsaycode05/assets/88434441/9f8b1b1c-9d85-4203-a19d-9ec4a291a039" alt="gcp" width="55" height="40"/></a><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/lindsaycode05/lindsaycode05/assets/88434441/ae295dc6-3f79-4840-bc10-c686801530c9" alt="docker" width="62" height="60"/></a></p>
+<!-- Tech Stack -->
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <!-- Frontend -->
+  <strong>Frontend:</strong><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/><br/>
+</p>
 
+<p align="center">
+  <!-- Backend -->
+  <strong>Backend:</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/><br/>
+</p>
 
+<p align="center">
+  <!-- Database -->
+  <strong>Database:</strong><br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
+</p>
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <strong>Cloud & DevOps:</strong><br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/><br/>
+</p>
+
+<br>
+
+<h3 align="center">📫 How to Reach Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lindsaycode/" target="_blank">
+    <img src="https://img.shields.io/badge/lindsay_glenn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+ </a>
+</p>

@@ -4,7 +4,6 @@
 <h3 align="center">🧍‍♂️ About me</h3>
 
 <h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web apps.
-<br/>
 I’m a self-taught engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
 <br>
 

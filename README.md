@@ -35,11 +35,10 @@ I’m a self-taught engineer who started just as a React developer, but develope
 </p>
 
 <p align="center">
-  <!-- Cloud & DevOps -->
-  <strong>Cloud & DevOps:</strong><br/>
+  <strong>DevOps:</strong><br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/><br/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/><br/>
 </p>
 
 <br>

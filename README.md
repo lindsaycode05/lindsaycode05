@@ -1,5 +1,4 @@
-![Lindsay Glenn](https://github.com/lindsaycode05/lindsaycode05/assets/88434441/a704cdfb-1057-4b85-8446-6af4f2343c11)
-
+![Lindsay Glenn](https://github.com/lindsaycode05/lindsaycode05/assets/88434441/9c9221f6-f842-40e5-8b48-f119aa8e2675)
 
 <h3 align="center">🧍‍♂️ About me</h3>
 

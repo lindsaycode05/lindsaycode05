@@ -7,12 +7,6 @@ I’m a self-taught engineer who started just as a React developer, but develope
 <br>
 
 
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats-git-master-lindsaycode05.vercel.app/api?username=lindsaycode05&show_icons=true&count_private=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs" alt="Lindsay's GitHub Stats">
-</p>
-<br>
-
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
@@ -48,6 +42,12 @@ I’m a self-taught engineer who started just as a React developer, but develope
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/><br/>
 </p>
 
+<br>
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-lindsaycode05.vercel.app/api?username=lindsaycode05&show_icons=true&count_private=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs" alt="Lindsay's GitHub Stats">
+</p>
 <br>
 
 <h3 align="center">📫 How to Reach Me</h3>

@@ -6,6 +6,13 @@
 I’m a self-taught engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
 <br>
 
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-lindsaycode05.vercel.app/api?username=lindsaycode05&show_icons=true&count_private=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs" alt="Lindsay's GitHub Stats">
+</p>
+<br>
+
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">

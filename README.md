@@ -50,9 +50,9 @@ I’m a self-taught engineer who started just as a React developer, but develope
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-master-lindsaycode05.vercel.app/api?username=lindsaycode05&show_icons=true&count_private=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs" alt="Lindsay's GitHub Stats">
-  <br/>
-  <br/>
+<!--   <img src="https://github-readme-stats-git-master-lindsaycode05.vercel.app/api?username=lindsaycode05&show_icons=true&count_private=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs" alt="Lindsay's GitHub Stats"> -->
+<!--   <br/> -->
+<!--   <br/> -->
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsaycode05&theme=radical&card_width=400&hide_longest_streak=true" alt="lindsaycode05's streak">
 </p>
 <br>

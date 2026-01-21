@@ -1,4 +1,4 @@
-![Lindsay Glenn](https://github.com/lindsaycode05/lindsaycode05/assets/88434441/9c9221f6-f842-40e5-8b48-f119aa8e2675)
+![Lindsay Glenn's GitHub Banner](https://github.com/user-attachments/assets/6798b615-5cc1-41f0-a3db-c109918ff361)
 
 <h3 align="center">🧍‍♂️ About me</h3>
 

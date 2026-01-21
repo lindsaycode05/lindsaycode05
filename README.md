@@ -6,10 +6,8 @@
 I’m a self-taught engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
 <br>
 
-<!-- Tech Stack -->
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
-  <!-- Frontend -->
   <strong>Frontend:</strong><br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -21,7 +19,6 @@ I’m a self-taught engineer who started just as a React developer, but develope
 </p>
 
 <p align="center">
-  <!-- Backend -->
   <strong>Backend:</strong><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -30,7 +27,6 @@ I’m a self-taught engineer who started just as a React developer, but develope
 </p>
 
 <p align="center">
-  <!-- Database -->
   <strong>Database:</strong><br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
@@ -46,15 +42,6 @@ I’m a self-taught engineer who started just as a React developer, but develope
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/><br/>
 </p>
 
-<br>
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-<!--   <img src="https://github-readme-stats-git-master-lindsaycode05.vercel.app/api?username=lindsaycode05&show_icons=true&count_private=true&theme=radical&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs" alt="Lindsay's GitHub Stats"> -->
-<!--   <br/> -->
-<!--   <br/> -->
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lindsaycode05&theme=radical&card_width=400&hide_longest_streak=true" alt="lindsaycode05's streak">
-</p>
 <br>
 
 <h3 align="center">📫 How to Reach Me</h3>

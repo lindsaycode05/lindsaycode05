@@ -32,7 +32,7 @@ I’m a self-taught engineer who started just as a React developer, but develope
 <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
 <img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/>
-<img src="https://custom-icon-badges.demolab.com/badge/REST-0B1D33?style=flat&logo=swagger&logoColor=white" alt="REST"/><br/>
+<img src="https://custom-icon-badges.demolab.com/badge/REST-0B1D33?style=flat&logo=swagger&logoColor=white" alt="REST"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Zod-111827?style=flat&logo=zod&logoColor=white" alt="Zod"/>
 </td>
 </tr>
@@ -62,7 +62,7 @@ I’m a self-taught engineer who started just as a React developer, but develope
 <p></p>
 <img src="https://custom-icon-badges.demolab.com/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/><br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright"/>
 </td>
 </tr>

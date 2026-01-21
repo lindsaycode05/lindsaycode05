@@ -1,8 +1,18 @@
 ![Lindsay Glenn's GitHub Banner](https://github.com/user-attachments/assets/6798b615-5cc1-41f0-a3db-c109918ff361)
 
 <h3 align="center">🧍‍♂️ About me</h3>
-<h4 align="center">I'm Lindsay, a software engineer who is passionate about solving problems, building user-friendly & easy-to-use web apps.
-I’m a self-taught engineer who started just as a React developer, but developed my skills to be able to contribute on the backend and cloud side as well, which I'm more passionate about as I discovered. In my spare time, I like to explore new trends and learn new technologies, because the tech field is an always evolving wonderland ✨</h4>
+
+Hi, I’m Lindsay 👋  
+
+- Full-Stack / Product Engineer (React/Next/TypeScript, Node/GraphQL) with **3.5+ years of commercial, hands-on experience**, based in Romania (Remote EU).
+- Recently shipped **end-to-end product features** for:
+  - 🇪🇺 Immigration / legal-tech platform (**Jobbatical**)
+  - 🎓 Data-science edtech platform (**AiCore**)
+- Built **Podcastogist**, an AI-Powered Podcast Post-Production SaaS Platform, as my flagship full-stack project, focusing on **scalable**, **performant systems**, **durable workflows**, and **real-time UX**.
+- Contributed to open-source tooling like **pnpm** and **Prettier**, used by millions of developers.
+- I enjoy working **across the modern stack**: fast, accessible UIs (Next.js, React, TypeScript, Tailwind), clean APIs (Node.js, Express, GraphQL, PostgreSQL/MongoDB), and cloud infra (GCP, AWS, Docker) with strong tests coverage & CI/CD workflows **that keep production systems stable**.
+- Open to **remote full-time roles** across Europe focused on **modern web, SaaS, and AI products**.
+
 <br>
 <h3 align="center">🛠️ Tech Stack</h3>
 <table align="center" cellpadding="8" cellspacing="0">
@@ -67,6 +77,31 @@ I’m a self-taught engineer who started just as a React developer, but develope
 </td>
 </tr>
 </table>
+<br>
+
+<h3 align="center">⭐ Flagship Project</h3>
+
+<h4 align="center">Podcastogist — AI-Powered Podcast Post-Production SaaS Platform</h4>
+<p align="center">
+  <a href="https://podcastogist.com">Live app</a> •
+  <a href="https://podcastogist.com/demo">Instant demo</a> •
+  <a href="https://github.com/lindsaycode05/podcastogist">GitHub repo</a>
+</p>
+
+<ul>
+  <li>Turns a single podcast upload into a full content pack (transcript, chapters, highlights, social posts) with real-time progress updates.</li>
+  <li>Durable, production-style SaaS built with Next.js 16, TypeScript, Convex, Inngest, Clerk (auth/feature gating/plan upgrades), AssemblyAI, OpenAI, Tailwind, and shadcn/ui.</li>
+  <li>Implements durable, webhook-driven, background orchestration workflows with retries/exponential backoff, parallel fan-out/fan-in and test suites/CI quality gates (Vitest, Playwright, GitHub Actions, CodeQL).</li>
+</ul>
+
+<h3 align="center">🧩 Open Source</h3>
+
+<h4 align="center">I contribute to tools that sit directly in modern JS/TS workflows:</h4>
+
+- **pnpm (33K+ stars, 44M+ weekly downloads):** Merged PR [#10442](https://github.com/pnpm/pnpm/pull/10442) - Improved pnpm’s peer dependency saving mechanism to prevent protocol-prefixed packages from breaking package installs and added targeted regression coverage and unit tests across the resolver and manifest update path.
+
+- **Prettier (50K+ stars, 62M+ weekly downloads):** Merged PR [#18644](https://github.com/prettier/prettier/pull/18644) - Fixed Prettier’s TypeScript printer engine that caused double-indent in conditional union type comment blocks and added regression test coverage and fixtures in format tests.
+
 <br>
 <h3 align="center">📫 How to Reach Me</h3>
 <p align="center">

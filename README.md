@@ -10,7 +10,7 @@ Hi, I’m Lindsay 👋
   - 🎓 Data-science edtech platform (**AiCore**), building learner dashboards, internal tools, and platform improvements.
 - Built **Podcastogist**, an AI-Powered Podcast Post-Production SaaS Platform, as my flagship full-stack project, focusing on **scalable**, **performant systems**, **durable workflows**, and **real-time UX**.
 - Contributed to open-source tooling like **pnpm** and **Prettier**, used by millions of developers.
-- I enjoy working **across the modern stack**: fast, accessible UIs (Next.js, React, TypeScript, Tailwind), clean APIs (Node.js, Express, GraphQL, PostgreSQL/MongoDB), and cloud infra (GCP, AWS, Docker) with strong tests coverage & CI/CD workflows **that keep production systems stable**.
+- I enjoy working **across the modern stack**, where **product impact and engineering discipline meet**: building clean user flows, tightening performance, improving reliability, and raising quality with tests and CI, **while keeping production systems reliable** with clean APIs, scalable data models and containerized delivery.
 - Open to **remote full-time roles** across Europe focused on **modern web, SaaS, and AI products**.
 
 <br>

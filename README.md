@@ -31,8 +31,8 @@ I’m a self-taught engineer who started just as a React developer, but develope
 <p></p>
 <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
-<img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/><br/>
-<img src="https://custom-icon-badges.demolab.com/badge/REST-0B1D33?style=flat&logo=swagger&logoColor=white" alt="REST"/>
+<img src="https://custom-icon-badges.demolab.com/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/>
+<img src="https://custom-icon-badges.demolab.com/badge/REST-0B1D33?style=flat&logo=swagger&logoColor=white" alt="REST"/><br/>
 <img src="https://custom-icon-badges.demolab.com/badge/Zod-111827?style=flat&logo=zod&logoColor=white" alt="Zod"/>
 </td>
 </tr>
@@ -42,7 +42,7 @@ I’m a self-taught engineer who started just as a React developer, but develope
 <p></p>
 <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/><br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Convex-111827?style=flat&logo=database&logoColor=white&logoSource=feather" alt="Convex"/>
 </td>
 <td align="center" valign="top">
@@ -51,7 +51,7 @@ I’m a self-taught engineer who started just as a React developer, but develope
 <img src="https://custom-icon-badges.demolab.com/badge/AWS-4285F4?style=flat&logo=soundcloud&logoColor=white" alt="AWS"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/><br/>
+<img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://custom-icon-badges.demolab.com/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://custom-icon-badges.demolab.com/badge/CI%2FCD-0B1D33?style=flat&logo=githubactions&logoColor=white" alt="CI/CD"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>

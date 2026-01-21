@@ -46,7 +46,15 @@ I’m a self-taught engineer who started just as a React developer, but develope
 
 <h3 align="center">📫 How to Reach Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lindsaycode/" target="_blank">
-    <img src="https://img.shields.io/badge/lindsay_glenn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
- </a>
+  <a href="https://www.linkedin.com/in/lindsaycode/" target="_blank" rel="noreferrer noopener">
+    <img
+      src="https://img.shields.io/static/v1?label=LinkedIn&message=Lindsay%20Glenn&color=%230077B5&style=flat-square&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <br />
+  <img
+    src="https://img.shields.io/static/v1?label=Email&message=lindsaycode05%40gmail.com&color=%23EA4335&style=flat-square&logoColor=white"
+    alt="Email"
+  />
 </p>
